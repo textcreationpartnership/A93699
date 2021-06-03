@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explanation of the commission of Jesus Christ; in relation to the gifts, call, mission, qualification, work and maintenance of his ministers under the gospel-dispensation. Compared with the gifts, call, mission, qualification, work, and maintenance, of the titular clergy of this commonwealth. Humbly submitted to the judgement of the committe, in relation to tythes; to the end they may see the contradiction betwixt them, and so deal with them accordingly. Published by John Spittlehouse.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93699</idno><idno type="EEBO-CITATION">99866241</idno>
+  <idno type="VID">118506</idno>
+  <idno type="EEBO-PROQUEST">2240922021</idno>
+  
+            <idno type="STC">Wing S5007</idno>
+            <idno type="STC">Thomason E713_15</idno>
+            <idno type="STC">ESTC R207171</idno>
+            <idno type="PROQUEST">99866241</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866241e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118506)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E713[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explanation of the commission of Jesus Christ; in relation to the gifts, call, mission, qualification, work and maintenance of his ministers under the gospel-dispensation. Compared with the gifts, call, mission, qualification, work, and maintenance, of the titular clergy of this commonwealth. Humbly submitted to the judgement of the committe, in relation to tythes; to the end they may see the contradiction betwixt them, and so deal with them accordingly. Published by John Spittlehouse.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[4], 6 [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold by Rich. Moone, at the seven stars in Paul's Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 misnumbered 6.</note>
+                  <note>Annotation on Thomason copy: "Sept. 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  Early works to 1800.</term>
+               <term type="topical_term">Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118506:1"/>
+            <p>AN EXPLANATION OF THE COMMISSION OF Jesus Christ; In relation to the Gifts, Call, Mission, Qualification, Work and Maintenance of his Ministers under the Gospel-dispensation. Compared with the Gifts, Call, Mission, Qua<g ref="char:EOLhyphen"/>lification, Work, and Maintenance, of the titular Clergy of this Commonwealth.</p>
+            <p>Humbly submitted to the judgement of the Committe, in relation to Tythes; to the end they may see the contradiction betwixt them, and so deal with them accordingly.</p>
+            <q>
+               <bibl>
+                  <hi>Jeremiah 5.30, 31.</hi>
+               </bibl>
+               <p>A wonderful and horrible thing is committed in the Land, The Prophets Prophesie falsly, and the Priests bear rule by their means; and my people love to have it so; and what will ye do in the end thereof?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Revelation 18.6.</hi> &amp;c.</bibl>
+               <p>Reward her, even as she rewarded you, and double unto her double according to her work; in the cup that she hath filled, fill to her double: how much she hath glorified her self and lived deliciously, so much torment and sorrow give her; for she saith in her heart, I sit a Queen, and am no widow, and shall see no sorrow; therefore shall her plagues come in one day, death, and mourning, and famine, and she shall be utterly burned with fire, for strong is the Lord who judgeth her.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Revelation 17.16.</hi>
+               </bibl>
+               <p>And the ten horns which thou sawest upon the beast, those shall hate the whore, and make her desolote and naked, and shall eat her flesh, and burn her with fire.</p>
+            </q>
+            <p>Published by <hi>John Spittlehouse.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. C.</hi> and are to be sold by <hi>Rich. Moone,</hi> at the seven stars in <hi>Paul</hi>'s Church-yard. 1653.</p>
+         </div>
+         <div type="author_to_members_of_Parliament">
+            <pb facs="tcp:118506:2"/>
+            <pb facs="tcp:118506:2"/>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving formerly presented you (as members of Parliament) with a Treatise, titled <hi>The first Ad<g ref="char:EOLhyphen"/>dresses,</hi> &amp;c. which did relate to your present work of pulling down Antichrist, root and branch, <hi>viz.</hi> in Presbytery, as in the Papacy and Prelacy; And seeing that providence hath since so ordered, that you are now about that which will effect the same, if performed by you, <hi>viz.</hi> if you take a<g ref="char:EOLhyphen"/>way the groundless payment of Tythes unto the present clergy of this Commonwealth; under their pretence of being the Ministers of the Gospel, whereas if they were, they have not the least ground or bottome for, in the Gospel; their predecessors and they having for a long season dealt with us therein, as they have done in the point of Baptisme: where in stead of Baptizing of Believers, they Rantize Infants, in relation to Circumcisi<g ref="char:EOLhyphen"/>on; telling us that it cometh in stead thereof, so that as the carnal seed of <hi>Abraham</hi> was Circumcised whilst Infants, that so the carnal seed of Be<g ref="char:EOLhyphen"/>leivers, ought to be Rantized now whilst Infants. And to this purpose they will tell us, that the same hath been an ancient custome for many a hundred yeer, and that it hath been ratified by several Synods, and Councels, and Parliaments, and so established as a Law both in Church and Common<g ref="char:EOLhyphen"/>wealth, yea such a Law, as whose should refuse to have their Child so dealt withal, they were immediately censured as Schismaticks and Hereticks, and so liable to punishment, imprisonment, yea even banishment and death it self: and yet notwithstanding all this, the thing being now compared with the precepts and practice of Jesus Christ and his Apostles, It is clear<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:118506:3"/>found not to have the least countenance either from or by them, so that all they have now to say in point of Vindication thereof from the Scriptures, will onely extend to suppositions and probabilities, as that such a thing might be, and that we know nothing to the contrary, in that whole Families were baptized, as also in that it is <hi>not said</hi> that Children of beleiving Pa<g ref="char:EOLhyphen"/>rents, <hi>were not baptized.</hi> Albeit, both the precepts and practices of Jesus Christ and his Apostles do clearly contradict the same, as also the commis<g ref="char:EOLhyphen"/>sion to that purpose, <hi>vid. Mat.</hi> 28.19, 20. with <hi>Mark.</hi> 16.15, 16. yea it is clear that the Housholds, which they are said to baptize, were all beleivers: in<g ref="char:EOLhyphen"/>stance the Family of the Jaylor, <hi>Act.</hi> 16.32, 33, 34. where it is said, <hi>They</hi> (viz. <hi>Paul</hi> and <hi>Silas</hi>) <hi>spake unto him</hi> (viz. the Jaylor) <hi>the world of the Lord, and to all that were in his house. And he tooke them the same hour of the Night, and washed their stripes, and were baptized, he and all his straightway. And when he had brought them into his house, he set meat before them.</hi> Mark, believing in God, <hi>with all his house,</hi> so there was no more baptized then were believers. And as for the Houshold of <hi>Lydia,</hi> it concerneth them to prove that she was married and had Children, before they ought to inferre any thing there<g ref="char:EOLhyphen"/>from. And thus have they hitherto deluded us in one of the grand Ordinances of Jesus Christ, as I shall make more fully appear in its due place. And so in like manner would they yet support their Antichristian maintenance by Tythes, to be confirmed upon them by the new Testament: when as the the truth is, they are every way, or rather worse put to it to prove the same, as I shall now make appear; to the end that (as God hath made you instru<g ref="char:EOLhyphen"/>ments to suppress Antichristianisme) you may with faithfulness and confi<g ref="char:EOLhyphen"/>dence from the word of Truth, performe that trust so reposed in you: which is the earnest desire and expectation of all the People of God (that are by his grace brought out of the doctrines of <hi>Babylon,</hi> and would also be de<g ref="char:EOLhyphen"/>livered out of the <hi>Dragonical</hi> power yet upon them, whereby they are yet inforced to contribute to the maintenance of that a bomination,) and amongst which,</p>
+            <closer>
+               <signed>Truthes, and your Honours servant, <hi>John Spittlehouse.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:118506:3"/>
+            <p>NOw to the end that you may do nothing contrary to the rule prescribed in the word, I shall therefore in the first place lay before the eyes of your understanding the commission which Jesus Christ gave unto his Apostles and Disciples, when he sent them out to preach the Gospel; which is as followeth, and that by the testi<g ref="char:EOLhyphen"/>mony of two or three witnesses <hi>viz.</hi> of the <hi>Evangelists,</hi> unto whom the same did appertain, as their guide and direction in the said Ministry: and inasmuch as the testimony of <hi>Luke</hi> doth more fully explain the same then the other, I shall therefore recite his testimony, as a being more full for my purpose, and draw in the testimonies of the other to compleat the same.</p>
+            <p>
+               <hi>The Commission is extant in the Gospel according to Luke</hi> ch. 10.</p>
+            <p>In the two first verses, of which chapter Jesus Christ layeth down the reasons which induced him thereunto, <hi>(viz.) After these things the Lord appointed other Seventy also and sent them two and two into every place, where he himself would come. Therefore said he unto them, The harvest truly is great, but the labourers are few; pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.</hi>
+            </p>
+            <p>After which followeth the commission it self in these words. <hi>Go your wayes. Behold, I send you forth as lambs amongst wolves; carry neither purse</hi> (<hi>nor gold, nor silver, nor Brass,</hi> Mat. 10.9.) <hi>nor scrip, nor shoos,</hi> (<hi>neither two Coats, nor staves</hi> Mat. 10.10.) <hi>nor salute no man by the way. And into whatsoever house you enter, first say, Peace be unto this house; and if the son of peace be there, your peace shall rest upon it; if not, then it shall return to you again, and in the same house</hi> remain, <hi>eating and drink<g ref="char:EOLhyphen"/>ing such things as they give; for the labourer is worthy of his reward. Go not from house to house and into whatsoever City you enter, and they receive you, eat such things as are set before
+<pb n="5" facs="tcp:118506:4"/>you, And he al the sick that are therein (freely you have received, freely give</hi> Mat. 10.8.) <hi>and say unto them, The Kingdome of God is come nigh unto you. But into soever City ye enter, and they receive you not, go your wayes into the streets of the same, and say Even the very dust of your City which cleaveth on us, we do wipe off against you: notwithstanding be you sure that the kingdome of God is come nigh unto you.</hi>
+            </p>
+            <p>Having thus laid down the Commission, I shall in the next place raise these ensuing observations therefrom (as a preparation to the following comparison) <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The party sending, <hi>(viz.)</hi> Jesus Christ.</item>
+               <item>2. The persons which he so sent, <hi>viz.</hi> his Apostles and Disci<g ref="char:EOLhyphen"/>ples.</item>
+               <item>3. The gifts he indued them withall, <hi>viz.</hi> the gift of preaching and working of Miracles.</item>
+               <item>4. The freeness of those gifts so given unto them not costing them a penny: which the titular Clergie cannot say.</item>
+               <item>5. The qualifications of them that were seat, <hi>viz.</hi> like lambs a<g ref="char:EOLhyphen"/>mongst wolves.</item>
+               <item>6. Their dependance upon providence, implyed by their being not permitted to take any thing with them for necessary suppliments for the future.</item>
+               <item>7. Their earnest tendance upon their imployments, intimated by their being not to salute any by the way.</item>
+               <item>8. Their salute wherever they came, by proclaiming peace.</item>
+               <item>9. Their work in case they were received, <hi>viz.</hi> preaching the Gospel, and doing of Miracles, by being a physitian both to their bodies and mindes.</item>
+               <item>10. The reward they were to receive for so doing; which con<g ref="char:EOLhyphen"/>sisted of these particulars, (<hi>viz.</hi> 1. to eate and drink such things as were set before them, or were as freely given unto them, by those who received them, as they had given to them. 2. they were not to use any act of compulsion to force any either to receive them, or 2. to hear them, 3. or to give unto them; but meerly to rely upon Provi<g ref="char:EOLhyphen"/>dence, as aforesaid.</item>
+               <item>11. What they were to do in point of being rejected, <hi>viz.</hi> one<g ref="char:EOLhyphen"/>ly to shake off the dust of their feet against them, as in <hi>Act.</hi> 13.51.</item>
+            </list>
+            <p>In opposition to which, I shall in the next place compare the gifts,
+<pb n="2" facs="tcp:118506:4"/>call, mission qualification work, and maintenance of the titular Cler<g ref="char:EOLhyphen"/>gie of this Commonwealth; and first of their gifts, which appear to be quite contrary to those received by the aforesaid Apostles and Disciples,</p>
+            <p n="1">1. In that in stead of receiving their gifts from Jesus Christ in his word, it is clear that they receive them from Heathens, and other cor<g ref="char:EOLhyphen"/>rupt teachers. Instance, the degrees which they take in the Universi<g ref="char:EOLhyphen"/>ties, as Junior Sophisters, and Senior Sophisters, <hi>&amp;c.</hi> during which time they are onely taught the writings of Heathens, or such as have been extracted from them; as Logick, Philosophie, Rhetorick, <hi>&amp;c.</hi> and after which they become Batchelors of Art, and after<g ref="char:EOLhyphen"/>ward Masters of Art, during which time also they are chiefly edu<g ref="char:EOLhyphen"/>cated in the corrupt doctrines of Antichrist, whose kingdome was a preparing by his instruments, even in the Apostles dayes <hi>vid.</hi> 1 <hi>Eist. John</hi> 2.18, 19.</p>
+            <p>So that it was even then dangerous to receive any writings, as Canonical, but even from the Apostles themselves: and doubtless hence it was that the Apostle exhorteth the people of God, to take diligent heed to the words which were spoken by Jesus Christ, and them his Apostles, as also in that they are given by inspiration, 2 <hi>Tim</hi> 3.16. and not from any <hi>private interpretation,</hi> 2 Pet. 1.20.21. as also in that <hi>they are profitable for doctrine, for reproof, for cor<g ref="char:EOLhyphen"/>rection, for instruction in righteousness;</hi> yea so profitable, as to <hi>make the man of God</hi> (or Minister of Jesus Christ) <hi>perfect and throughly furnished to all good works.</hi> 2 Tim. 3.16, 17. which I think is sufficient, whether for him that teacheth, or him that is taught.</p>
+            <p>Again, doubtless hence it was that the Apostle <hi>Paul</hi> gives caution to the people of God to <hi>beware lest any man should spoyl them through Philosophie and vain deceit after the traditions of men, and not after Christ,</hi> Col. 2.8. for, faith he elsewhere, <hi>I know that after my departure shall grievous wolves enter in amongst you, not sparing the flock.</hi> Act. 20.29. <hi>And through covetousness shall they make merchandise of you,</hi> such as are <hi>murmurers, complain<g ref="char:EOLhyphen"/>ers, walking after their owne lusts, and their mouth speaking great swelling words of vanity, having mens persons in admira<g ref="char:EOLhyphen"/>tion, because of advantage,</hi> Jude 26.</p>
+            <p>And if such caution were expedient in those dayes, certainly we
+<pb n="4" facs="tcp:118506:5"/>ought much more now to look about us, seeing Antichrist hath yet so great a toleration in this Commonwealth as to uphold two Univer<g ref="char:EOLhyphen"/>sities meerly to study such like stuff; as also by imploying persons so taught to have the pre-eminence of being the Ministers of Jesus Christ, as (whether ignorantly or obstinately) they yet do, notwith<g ref="char:EOLhyphen"/>standing their gifts are so contrary to what they ought to be, and from whom they ought to be.</p>
+            <p n="2">2. In relation to their call, I also affirm it to be quite contrary to that which the Ministers of the Gospel had in the primitive times;</p>
+            <p n="1">1. In that, to avoid their otherwise unavoidable call from the Antichrist of <hi>Rome,</hi> and so consequently to avoid the Statute in force against them upon that account, they are necessitated to declare themselves the Ministers of the State. Instance, the confession of their late champion Dr. <hi>Seaman,</hi> who openly declared, that they ac<g ref="char:EOLhyphen"/>knowledged their rise and call from the Civil Magistrate, and that they were wholly at the States disposure, both as their patron and refuge in case of opposition: a thing never heard of in the Apostles dayes; but such hath been, and yet is the subtilty of these Anti<g ref="char:EOLhyphen"/>christian brats, as that they have ever suted their Religion with the power that was predominant. Instance in King <hi>Edward</hi> the Sixth's dayes, at which time they changed from Popery to Prelacy. Again In Queen <hi>Maries</hi> dayes, at which time they changed again from Prelacy to Popery. Again, in Queen <hi>Elizabeths</hi> dayes, at which time they changed again from Papacy to Prelacy. Again since the conquest of the late King, from Prelacy to Presbytery. Instance the whole Episcopal frie who suddenly after transformed themselves into a Presbyterian Garb. Again, it is also clear, that the Presby<g ref="char:EOLhyphen"/>terians themselves have made an English stalking-horse of the Sco<g ref="char:EOLhyphen"/>tish Covenant to regain the States favour, which they had lost by praying and preaching up the Kingly interest; yea their zeal hath been so cooled since the death of their brother <hi>Love,</hi> as that even <hi>Calaemie</hi> himself dares not now mumble that which before he da<g ref="char:EOLhyphen"/>red to publish openly; and all for fear of losing the gain which comes by making shrines in the Presbyterian forge; yea I am per<g ref="char:EOLhyphen"/>swaded that there is scarce a Presbyterian in the Nation, but would turn Independant rather then lose their tythes, and so joyn in Asso<g ref="char:EOLhyphen"/>ciation with Mr. <hi>Nye;</hi> who it seems hath such an influence upon the Magistrate, as to give out that tythes will be payed to the Ministers
+<pb n="11" facs="tcp:118506:5"/>so long as Corn groweth; all which doth clearly declare them to be Ministers of Antichrist and the State, and not of Christ; for his servants they are whom they obey.</p>
+            <p n="3">3. In relation to their Mission, it is also clear, that it is from the State, and not from Jesus Christ. Instance, the States disposing of them at pleasure; whereas the call and Mission of Gospel-Ministers in the Apostles dayes, was by a joint consent of the Church out of which they were elected, <hi>vid. Act.</hi> 2. from verse 13 to the end of the chapter, <hi>vid.</hi> also <hi>Act.</hi> 6. from verse 1 to vers. 7.</p>
+            <p>Instance also the impropriators jurisdiction over them.</p>
+            <p n="4">4. As to their Qualifications, it is also clear, that they are quire contrary to the qualifications of Gospel-Ministers: for instead of be-Lambs amongst Wolves, they prove <hi>Wolves amongst Lambs:</hi> wit<g ref="char:EOLhyphen"/>ness their wolvish nature, agreeable to the false Prophers of old, <hi>viz. Ezek.</hi> cap. 22.26. where the Lord chargeth them as compirators, and like a roaring Lyon raving the pray, with devouring souls; with violating his laws, and prophaining his holy things, with making no difference betwixt the holy and prophane, betwixt the clean and un<g ref="char:EOLhyphen"/>clean, with getting unhonest gain, with daubing with untempered mor<g ref="char:EOLhyphen"/>ter, with seeing of vanity and divining lyes, with saying thus saith Lord, when the Lord hath not spoken: as also in <hi>Mich.</hi> 3.6.7. <hi>&amp;c.</hi> For teaching for hire, and divining for money, for eating the fat and clothing themselves with the wooll, and not feeding the flock, <hi>Ezek.</hi> for going in sheeps clothing (<hi>viz.</hi> in White Surplices) and yet being ravening wolves, <hi>Mat.</hi> 7.15. For notwithstanding being blind. yet would undertake to lead the blind, <hi>Mat.</hi> 15.14. For binding heavy burdens upon others, and yet not touching them with one of their fingers. For loving the uppermost rooms at Feasts, and the chief seats in the Synagogues, and greetings in the markets, and to be called of men Rabbi, Rabbi. For shutting up the Kingdome of Heaven a<g ref="char:EOLhyphen"/>gainst men; for neither going in themselves nor suffering them that are entring to go in. For devouring widows houses, &amp; for a pretence mak<g ref="char:EOLhyphen"/>ing long Prayers: all which I humbly leave to be parallel'd with the present Priests of this time. by the judicious and impartial reader.</p>
+            <p>Again, it is evidently known that in stead of being a proclaimer of peace where they live, they have been, and yet would be (durst they) the chiefe agents to blow the bellows of dissention betwixt Magistrates &amp; People; witness <hi>Canterbury</hi> in the late Kings days, the
+<pb n="6" facs="tcp:118506:6"/>Cardinal <hi>Mazarine</hi> now in <hi>France,</hi> with the Priests of <hi>Scotland, Ireland,</hi> and <hi>Holland.</hi>
+            </p>
+            <p n="5">5. In respect to Gospel-work it is also clear, that they teach false doctrine, <hi>viz.</hi> the doctrine of the Antichrist of <hi>Rome</hi> (from whence they are lineally descended, as they themselves very well know) for in stead of teaching the commands of Jesus Christ, they teach the tradi<g ref="char:EOLhyphen"/>tions and inventions of themselves and their fore-Fathers.</p>
+            <p>Instance, <hi>Mat.</hi> 28.19. <hi>&amp;.</hi> where the Lord Jesus commanded his Disciples to teach or Disciple persons, before they baptized them; they clearly practice the quite contrary by rantizing before they teach.</p>
+            <p>Againe, whereas Jesus Christ and his Disciples did require pro<g ref="char:EOLhyphen"/>fessed faith and repentance in persons before baptism. <hi>Mark</hi> 16.15, 16. as also <hi>Act.</hi> 2. from verse 37. to <hi>ult.</hi> with <hi>Act.</hi> 8. from verse 36. to <hi>ult.</hi> they rantize such as profess neither, <hi>viz.</hi> Infants.</p>
+            <p>Again, it is also clear, that they preach up Foederal holiness in In<g ref="char:EOLhyphen"/>fants, whereas it is clear both from the expression and practice of <hi>John</hi> the Baptist, that the carnal seed of <hi>Abraham</hi> himself had no interest upon that account to the Gospel priviledge of Baptisme, as in <hi>Mat.</hi> 3.7. where he telleth the Pharisees and Saducces that came to his baptism (albeit they were of <hi>Abrahams</hi> seed in the flesh) that they were a generation of Vipers; asking them who had warned them to fly from the wrath to come, willing them to bring forth fruit meet for repentance, and not to think to say among themselves <hi>(mark) That they had Abraham to their Father,</hi> &amp;c.</p>
+            <p>Again, it is clear, that Jesus Christ himself called some of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> seed devils, telling them that they were of their Father the de<g ref="char:EOLhyphen"/>vil <hi>&amp;c.</hi> so that no fleshly seed can properly be termed the seed of a believer, until it be begot again by the seed of the word, <hi>For that which is of flesh is flesh, and that which is born of the Spirit is Spirit.</hi> Again, <hi>flesh and blood cannot inherit the Kingdome of Heaven</hi> (<hi>viz.</hi> Gospel-priviledges) he onely being the child of a be<g ref="char:EOLhyphen"/>liever, that is a believer; for he that is of faith, is of faithful <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and none else.</p>
+            <p>Again, in stead of preaching and practising baptisme according to the example of Jesus Christ, which was by going down into the wa<g ref="char:EOLhyphen"/>ter and there being baptized, and then to come up out of the water, as in <hi>Luk.</hi> 3.16. and <hi>Act.</hi> 8.38. where the Eunuch was baptized by <hi>Philip,</hi> they quite contrarywise preach and practise it to be suf<g ref="char:EOLhyphen"/>ficent
+<pb n="7" facs="tcp:118506:6"/>to bring an Infant to the water, and to have a few drops of water held over and let fall upon the Face thereof, and be then car<g ref="char:EOLhyphen"/>ried back from the water.</p>
+            <p>Which very doctrine is the grand Master-piece of Antichrist, and the very original of Popery, for by that very means the old Harlot and her Daughters have their subsistance, and without which it is impos<g ref="char:EOLhyphen"/>sible they should be continued; and therefore so long as you counte<g ref="char:EOLhyphen"/>nance the present clergy in their supportation thereof, you are guilty of these following transgressions, <hi>viz.</hi>
+            </p>
+            <p>Of altering the whole frame and constitution of the Church of Christ, for whereas his designe is to extract his Church out of the World, as in <hi>Joh.</hi> 15.18, 19. and 17.6, 9, 14, 15, 16. they go about to extract the World out of the Church, so that in stead of the Church being in the World, they will have the World in the Church: for if all Infants that are born in the Commonwealth be made Mem<g ref="char:EOLhyphen"/>bers of Christ, and Children of God, and Inheritors of the Kingdom of Heaven by being rantized, then it must needs follow that all persons in the Commonwealth were once of the Church: which if they now be not, then it must also follow that the World is in the Church, for the Church consisting of the Commonwealth, it must needs follow that they that are of the World in the Commonwealth, are in the Church.</p>
+            <p>Againe, in point of the other Sacrament of the Lords Supper, it is also clear, that their practise is quite contrary to that which was in the Apostles daies: for whereas it was the then custome, that all such as were thought fit by the Apostles to be baptized, <hi>Act.</hi> 2.41, 42. were thereupon admitted to the Apostles doctrine, and breaking of Bread and Prayers, It is clear that these Priests refuse to admit such as they rantize (<hi>viz.</hi> infants) to the benefit of the Lords Supper, a I thing wonder they are not ashamed of: for certainly they are as capable of the Supper as of the Baptism: but they want <hi>Elijah</hi> to jeer them out of their madness and folly.</p>
+            <p n="6">6. In respect of their maintenance by Tythes, I likewise affirm it to be repugnant to the maintenance assigned by Jesus Christ to his Apostles and Disciples: instance the words of the commission for<g ref="char:EOLhyphen"/>merly mentioned, with the observations thereupon; in reference to which, I appeal to any unbiassed men, whether it be consonant to in<g ref="char:EOLhyphen"/>dent beforehand what they shall have in point of maintenance, or that
+<pb n="13" facs="tcp:118506:7"/>they should dislike the dependancy injoyned them, (which certainly they would not do, did they think they were the true Ministers of Jesus Christ) or that they should desire the Magistrate to act for them by a compulsatory power, there being not the least colour for so doing in the aforesaid commission.</p>
+            <p>Having thus proved them Antichristians from the head to the hoose, I shall in the next place answer to some objections, which may arise from the Commission formerly mentioned, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> That it did onely prescribe rules of direction for the Disci<g ref="char:EOLhyphen"/>ples for that present occasion, and that when the Gospel was in its In<g ref="char:EOLhyphen"/>fancy: whereas we read that in after-times, when Churches were planted, the Apostle <hi>Paul,</hi> doth argue stoutly for a maintenance, say<g ref="char:EOLhyphen"/>ing tha the and the other Apostles with him, had power <hi>to eat and drink,</hi> and to lead about about a Sister as well as the other Apostles, and as the brethren of the Lord and <hi>Cephas,</hi> as also that he and <hi>Bar<g ref="char:EOLhyphen"/>nabas</hi> had power to forbear working; urging that no man goeth a warfare at his own charge, and that no man planteth a vineyard, and eateth not of the fruit thereof, <hi>&amp;c.</hi> with several other instances, con<g ref="char:EOLhyphen"/>cluding that even so the Lord hath ordained, that they that preach the Gospel should live of the Gospel, 1 <hi>Cor.</hi> 9.4. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Marke what all you have said doth amount unto, <hi>viz.</hi> 1. That <hi>Paul</hi> and <hi>Barnabas</hi> had the like priviledges as any other of the Apostles. 2. That their power was to eat and drink at the charge of such as they taught in the word. 3. To lead about a Sister, or a Wife, as well as the other Apostles, and as the brethren of the Lord and <hi>Cephas.</hi> 4. That he and <hi>Barnabas</hi> had power to forbear working, <hi>&amp;c.</hi>
+            </p>
+            <p>Now in these perticulars, where is the least mention that they had a priviledge to demand Tythes: or that the Magistrate should make a Law to pay Tythes unto them with the payment of treble damages in point of refusal? or where they had a Personags, or Vickerages.</p>
+            <p>
+               <hi>Object.</hi> But wherefore is it then said that the Lord hath <hi>ordained</hi> that they that preach the Gospel, should live of the Gospel, I have been very studious to finde out the place where it was that the Lord did make such a decre or ordination, and what it amounteth unto.</p>
+            <p>
+               <hi>Resp.</hi> And certainly you would use all your wits to make it reach a Tythe-cock but the art of a Doctor cannot do it: for no rational man can imagine that ordination to be any other then that mentioned
+<pb n="2" facs="tcp:118506:7"/>in the aforesaid commission made by the Lord Jesus; yea that the Apostle <hi>Paul</hi> intends no other, is as clear as the Sun at Noon day, for he useth the same expressions, <hi>viz.</hi> of eating and drinking, as if he should have said, The Lord Jesus hath ordained that you should keep me with meat and drink, and therefore I am impowred by God to receive it from you, in that he thinks it meet that you should give it me for preaching the Gospel unto you: yea albeit I did forbear working with my hands, yet the Lord thinketh it fit, that you should administer to my necessities for the aforesaid reason. And hence it is that the Apostle <hi>Paul</hi> was so far from desiring to be rich in this world, as that he thinketh it sufficient to have food and raiment, which he likewise adviseth <hi>Timotheus</hi> to condescend unto: <hi>vid.</hi> 1 <hi>Tim.</hi> 6.1.</p>
+            <p>Againe, it is clear, that albeit the Apostle used such expressions to the <hi>Corinthians,</hi> his intent was not to use a word and a blow, as the Priests of these times; for faith he, <hi>I have not written those things that it should be so done unto me, for it were better that I should dye,</hi> (viz. for hunger) <hi>then that any man should make my glory void: for though I preach the Gospel, I have nothing to glory of: for if I do this thing willingly, I have a reward; but if against my will, a dispensation of the Gospel is committed to me. What is my reward then? verily, that when I preach the Gospel, that I make the Gospel of Christ without charge, that I abuse not my power in the Gospel, for though I be free from all men, yet have I made my selfe a servant to all that I might gaine the more</hi> &amp;c.</p>
+            <p>Yea so farre was he from compelling any thing from the Churches, as that he doth make an open profession unto the Elders of <hi>Ephe<g ref="char:EOLhyphen"/>sus,</hi> (Act, 20.) how he had demeaned himselfe amongst them, <hi>&amp;c.</hi> and after what manner he had been with them at all seasons, serving the Lord with humility of mind, and with many tears and temptati<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi> and how he had kept back nothing from them, that was profitable unto them; but that he had shewed and taught the same publikely, and from house to house. <hi>And now</hi> (saith he) <hi>I go bound in the Spirit to Jerusalem, not knowing the things that shall be<g ref="char:EOLhyphen"/>fal me there, saving that the holy Ghost witnesseth in every city, that bonds and afflictions wait for me: but none of those things move me, neither count I my self dear unto my self, so that I may finish my course with joy, and the ministery that I have received
+<pb n="10" facs="tcp:118506:8"/>of the Lord Jesus, to testifie the Gospel of the grace of God,</hi> &amp;c. <hi>And now brethren, I commned you to God,</hi> &amp;c. <hi>I have coveted no mans silver, or gold, or apparel: yea, your selves know, that these hands of mine have ministred to my necessity, AND TO THEM THAT WERE WITH ME. I have shewed you all things, how that in SO LABOƲRING, ye ought to support the weak, and to remember the word of the Lord Jesus, how he said, It is more blessed to give then to receive.</hi>
+            </p>
+            <p>Again, he professeth himself to have been unto the Thessalonians even as a nurse nourisheth her children; and that he and <hi>Sylvanus,</hi> &amp;c. were so affectionate towards them, as that they were not willing onely to have imparted the Gospel of Christ unto them but also their own souls, in that they were so dear unto them. For saith he, <hi>Ye re<g ref="char:EOLhyphen"/>member brethren our labour and travel, for that labouring night and day, because we would not be chargeable to any of you.</hi>
+            </p>
+            <p>Again, in his 2 Epist. to them, ch. 3. he declareth that they had not walked disorderly amongst them, neither had eaten any mans bread for nought; but that they wrought with labour and travel, and that <hi>night and day,</hi> that they might not be chargeable unto them.</p>
+            <p>Again, the condition which the Apostles in general were in, du<g ref="char:EOLhyphen"/>ring their abode upon earth, is clearly described, in 1 <hi>Cor.</hi> 4.9. where the Apostle <hi>Paul</hi> saith he thinketh God had set them forth last, as it were <hi>appointed to death, in that they were made spectacles unto the world, and to angels, and to men;</hi> in that they were <hi>esteemed fools, weak, and despised. Yea,</hi> saith he, <hi>to this present hour we both hunger and thirst, and are naked and are buffeted, and have no certain dwelling place; and labour, working with our own hands,</hi> &amp;c. yea, that they were made <hi>the filth of the world, and off-scowring</hi> of the world; and consequently not Lord Bishops, <hi>&amp;c.</hi>
+            </p>
+            <p>Again, it is clear that the Apostle <hi>Peter,</hi> in his admonitions to his fellow-Elders, doth likewise exhort them to <hi>feed the Church of God,</hi> &amp;c. and to <hi>take the over sight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready minde: not as being lords over gods heritage, but examples to the flock.</hi> But the Priests take little example from hence.</p>
+            <p>Object. <hi>But the Apostle Paul writing to Timothy touching the office and duty of an elder, amongst other things, saith, that her ought to be given to hospitality; which he cannot be, unless he have a sufficient competencie allowed him by them that he teacheth.</hi>
+            </p>
+            <pb n="11" facs="tcp:118506:8"/>
+            <p>
+               <hi>Resp.</hi> That is but in case the Lord have inable him with a com<g ref="char:EOLhyphen"/>petency of his own proper inheritance, for otherwise it is ridiculous to imagine that his auditory should give him money on purpose, meerly that he should give it to others, as the Antichristian custome hath hitherto been: yea it is clear by what hath been said, that the Apostle <hi>Paul</hi> was Hospitable upon no such account; but contrary wise, what he gave was meerly the fruits of his own labours, wherewith he did not onely maintain himself, but also them that were with him, <hi>viz.</hi> his fellow travellers, as <hi>Sylvanus,</hi> and <hi>Timotheus,</hi> &amp;c and thereupon doth also take occasion to injoyne his fellow Elders at <hi>Ephesus,</hi> that they should follow his example, <hi>viz.</hi> that in <hi>so labouring</hi> they likewise should support the weak (<hi>viz.</hi> such as were not able to labour) as also elsewhere acknowledgeth that it is the duty of Parents to lay up for the Children, and not the Children for the Parents: the shepherd for the flock, and not the flock for the shepherd.</p>
+            <p>Again, an Elder is no more necessitated to be hospitable, without he have it of his own proper inheritance <hi>as by birth or the like,</hi> then he is necessitated to have his Children in subjection, when perad<g ref="char:EOLhyphen"/>venture he hath none; must he therefore take Children from others, and so make them his own, to the end he may performe that duty, and that of necessity?</p>
+            <p>Again, it is as well the duty of an Elder to abstain from covetous<g ref="char:EOLhyphen"/>ness, or to be greedy of filthy lucre, as to be hospitable.</p>
+            <p>But such hath been the subtil sophistry of the Antichristian clergy, and yet is, to endeavour to perswade us that they may take from the poor by authority, to the end they may be hospitable, yea to perswade the Magistrate also, that they are necessitated so to do and that it is the duty of a Magistrate to procure it for them: which if rightly conside<g ref="char:EOLhyphen"/>red, is every way as ridiculous as to conceive that a servant that giveth his Master's almes, is the original donor thereof, and not his Master from whom he received it; and certainly if such Parsons would take notice of the title they attribute to themselves (<hi>viz.</hi> Ministers, <hi>&amp;c.</hi>) they would find themselves to be <hi>servants,</hi> and not <hi>Masters:</hi> whereas contrary wise they have been <hi>the Lords,</hi> and their <hi>Masters the servants:</hi> making good the proverb upon themselves, <hi>viz. Princes go on foot and servants ride on horseback.</hi>
+            </p>
+            <p>Again, Whereas <hi>Solomon</hi> admonisheth such as would be charitable to give it out of their owne substance, and not out of other mens; It is clear, that
+<pb n="6" facs="tcp:118506:9"/>these make no conscience from whom they take to inrich themselves; yea it is evident, that they will take from such, unto whom they are a hundred times more able to give; and yet all this must be done under a pretence of being hospitable: and now when the snake is found under the green herb, it must be sacreledge to deprive them of such unjust gain, and all because this long &amp; evil custome hath been established by a law, <hi>viz.</hi> instead of filling their bellie<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ey what they are not, as I have proved) to fill <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, in stead or being servants, to be Lords; in stead of <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>eely given them, to force as much as they themselves <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> being freely received by their Parishioners, to thrust <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>em whether they will no; and so consequently rather ra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>u<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Christ, then kind husbands unto it: So that I have clearly <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be Antichristians in all things; for whereas the Ministers of <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t were to do all things without constraint, these do all things by <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and so consequently have not the least symptome of being the <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s of Jesus Christ.</p>
+            <p>
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore there can be no more sacriledge in taking Tyths from <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (were Tythes due to the Ministers of the Gospel, which is clear <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y are not) then it was for the Magistrates in former times and of late, to abolish Papacy and Prelacy, with the appurtenances thereunto belonging, as Abbies, Monkeries, Fryeries, Bishoptickes, <hi>&amp;c.</hi> they be<g ref="char:EOLhyphen"/>ing held by one and the same tenure, as tythes, <hi>viz.</hi> for the suppor<g ref="char:EOLhyphen"/>tation of Antichristianism, whereof the present Clergie are as guilty <hi>in their Sphere,</hi> as any in <hi>Rome;</hi> as I think hath been clearly prov<g ref="char:EOLhyphen"/>ed, so that were the present Clergy dealt withall, as really they are, they would not onely come under the censure of the loss of Tythes, but even also under the Statute of Popish Priests, and Jesuits; there being nothing more clear, then that they received their ordination from the same authority as do the Popish Priests &amp; Jesuites and that upon a like Popish account, <hi>viz.</hi> to form national Churches by rantizing In<g ref="char:EOLhyphen"/>fants; So that the truth is, the present Clergy may think themselves happy if they scape so well, as only with the loss of Tythes, after such a palpaple knowledge of what they are; whereas, were the civil ma<g ref="char:EOLhyphen"/>gistrate as violent against them, as they are against their Parishio<g ref="char:EOLhyphen"/>ners, they might more justly by the law of the land take away the lives of the Priests, then the Priests take tythes from their Parisho<g ref="char:EOLhyphen"/>ners by the law of Jesus Christ in the New Testament.</p>
+            <p>
+               <hi>That their calling as Ministers is from</hi> Rome, vid. <hi>the dispute between Dr.</hi> Chambrerlain <hi>and Mr.</hi> Cranford.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
